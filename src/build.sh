@@ -1,0 +1,1 @@
+gcc malware.c -o ../build/malware
